@@ -32,7 +32,7 @@ console.log(publisherName);
 
 // array destructuring
 // use a , to skip an index. [ , city, state, zipe]
-const address = ['5432 S Juniper Street', 'Imperial', 'Missouri', '63052'];
+const address = ['5463 Lakewood Terrace', 'Imperial', 'Missouri', '63052'];
 
 const [ street, city, state, zip] = address;
 
